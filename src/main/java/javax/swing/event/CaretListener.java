@@ -1,0 +1,3 @@
+
+    void caretUpdate(CaretEvent e);
+}

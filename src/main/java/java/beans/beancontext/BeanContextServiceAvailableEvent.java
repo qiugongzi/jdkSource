@@ -1,0 +1,3 @@
+
+    protected Class                      serviceClass;
+}

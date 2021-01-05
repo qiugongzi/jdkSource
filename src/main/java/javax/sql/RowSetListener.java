@@ -1,0 +1,3 @@
+
+  void cursorMoved(RowSetEvent event);
+}

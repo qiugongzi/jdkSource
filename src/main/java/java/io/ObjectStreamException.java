@@ -1,0 +1,5 @@
+
+    protected ObjectStreamException() {
+        super();
+    }
+}

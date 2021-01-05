@@ -1,0 +1,3 @@
+
+    void setValue(String value);
+}

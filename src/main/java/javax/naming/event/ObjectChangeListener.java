@@ -1,0 +1,3 @@
+
+    void objectChanged(NamingEvent evt);
+}

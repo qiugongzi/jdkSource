@@ -1,0 +1,4 @@
+
+interface Conditional {
+    boolean evaluate();
+}

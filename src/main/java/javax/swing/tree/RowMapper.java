@@ -1,0 +1,3 @@
+
+    int[] getRowsForPaths(TreePath[] path);
+}

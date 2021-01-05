@@ -1,0 +1,4 @@
+
+    long getColumnNumber(long pos);
+
+}

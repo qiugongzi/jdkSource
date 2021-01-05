@@ -1,0 +1,4 @@
+
+    int isSupportedOption(String option);
+
+}

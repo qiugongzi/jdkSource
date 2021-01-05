@@ -1,0 +1,3 @@
+
+    public RSAOtherPrimeInfo[] getOtherPrimeInfo();
+}

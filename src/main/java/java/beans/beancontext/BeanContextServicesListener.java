@@ -1,0 +1,3 @@
+
+    void serviceAvailable(BeanContextServiceAvailableEvent bcsae);
+}

@@ -1,0 +1,4 @@
+
+    public XSNamespaceItem getNamespaceItem();
+
+}

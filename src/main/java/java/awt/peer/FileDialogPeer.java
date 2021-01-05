@@ -1,0 +1,3 @@
+
+    void setFilenameFilter(FilenameFilter filter);
+}

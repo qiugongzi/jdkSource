@@ -1,0 +1,4 @@
+
+    GraphicsConfiguration getAppropriateGraphicsConfiguration(
+            GraphicsConfiguration gc);
+}

@@ -1,0 +1,3 @@
+
+    Reference getReference() throws NamingException;
+}

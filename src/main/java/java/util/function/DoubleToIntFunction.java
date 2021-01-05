@@ -1,0 +1,3 @@
+
+    int applyAsInt(double value);
+}

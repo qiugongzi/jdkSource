@@ -1,0 +1,3 @@
+
+    protected BeanContext propagatedFrom;
+}

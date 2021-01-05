@@ -1,0 +1,5 @@
+
+
+    public abstract void clear();
+
+}

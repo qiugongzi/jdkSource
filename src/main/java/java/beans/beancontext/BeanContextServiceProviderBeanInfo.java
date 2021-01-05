@@ -1,0 +1,3 @@
+
+    BeanInfo[] getServicesBeanInfo();
+}

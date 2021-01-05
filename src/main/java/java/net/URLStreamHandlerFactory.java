@@ -1,0 +1,3 @@
+
+    URLStreamHandler createURLStreamHandler(String protocol);
+}

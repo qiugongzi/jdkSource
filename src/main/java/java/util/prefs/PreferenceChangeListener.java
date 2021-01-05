@@ -1,0 +1,3 @@
+
+    void preferenceChange(PreferenceChangeEvent evt);
+}

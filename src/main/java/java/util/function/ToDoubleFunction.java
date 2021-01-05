@@ -1,0 +1,3 @@
+
+    double applyAsDouble(T value);
+}

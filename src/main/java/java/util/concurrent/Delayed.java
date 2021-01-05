@@ -1,0 +1,3 @@
+
+    long getDelay(TimeUnit unit);
+}

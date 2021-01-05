@@ -1,0 +1,3 @@
+
+    ClassDoc classNamed(String qualifiedName);
+}

@@ -1,0 +1,3 @@
+
+    void childRemoved(NodeChangeEvent evt);
+}

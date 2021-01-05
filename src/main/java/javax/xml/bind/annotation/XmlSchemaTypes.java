@@ -1,0 +1,3 @@
+
+    XmlSchemaType[] value();
+}

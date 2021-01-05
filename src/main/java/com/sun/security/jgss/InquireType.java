@@ -1,0 +1,3 @@
+
+    KRB5_GET_AUTHTIME
+}

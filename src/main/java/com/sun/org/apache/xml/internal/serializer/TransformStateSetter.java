@@ -1,0 +1,4 @@
+
+  void resetState(Transformer transformer);
+
+}

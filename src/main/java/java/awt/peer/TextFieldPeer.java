@@ -1,0 +1,4 @@
+
+    Dimension getMinimumSize(int columns);
+
+}

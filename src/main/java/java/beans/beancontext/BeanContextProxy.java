@@ -1,0 +1,3 @@
+
+    BeanContextChild getBeanContextProxy();
+}

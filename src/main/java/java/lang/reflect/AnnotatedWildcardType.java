@@ -1,0 +1,3 @@
+
+    AnnotatedType[] getAnnotatedUpperBounds();
+}

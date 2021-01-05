@@ -1,0 +1,3 @@
+
+    INHERIT_ONLY;
+}

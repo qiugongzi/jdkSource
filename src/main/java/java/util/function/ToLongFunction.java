@@ -1,0 +1,3 @@
+
+    long applyAsLong(T value);
+}

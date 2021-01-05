@@ -1,0 +1,4 @@
+
+
+    void activate(Applet newApplet);
+}

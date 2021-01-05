@@ -1,0 +1,4 @@
+
+    @SuppressWarnings("rawtypes")
+    Iterator iterator();
+}

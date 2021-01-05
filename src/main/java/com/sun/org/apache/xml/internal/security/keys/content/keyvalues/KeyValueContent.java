@@ -1,0 +1,4 @@
+
+    PublicKey getPublicKey() throws XMLSecurityException;
+
+}

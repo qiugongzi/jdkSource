@@ -1,0 +1,3 @@
+
+    void addHelpMenu(Menu m);
+}

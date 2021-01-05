@@ -1,0 +1,3 @@
+
+    ContentHandler createContentHandler(String mimetype);
+}

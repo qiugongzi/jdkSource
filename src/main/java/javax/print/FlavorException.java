@@ -1,0 +1,4 @@
+
+    public DocFlavor[] getUnsupportedFlavors();
+
+}

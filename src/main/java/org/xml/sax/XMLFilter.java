@@ -1,0 +1,6 @@
+
+    public abstract XMLReader getParent ();
+
+}
+
+

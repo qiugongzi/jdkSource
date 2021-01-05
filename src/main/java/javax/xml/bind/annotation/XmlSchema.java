@@ -1,0 +1,33 @@
+
+
+package javax.xml.bind.annotation;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.Target;
+
+import static java.lang.annotation.ElementType.*;
+import static java.lang.annotation.RetentionPolicy.*;
+
+
+
+@Retention(RUNTIME) @Target(PACKAGE)
+public @interface XmlSchema {
+
+
+    XmlNs[]  xmlns() default {};
+
+
+    String namespace() default "";
+
+
+    XmlNsForm elementFormDefault() default XmlNsForm.UNSET;
+
+
+    XmlNsForm attributeFormDefault() default XmlNsForm.UNSET;
+
+
+    String location() default NO_LOCATION;
+
+
+    static final String NO_LOCATION = "##generate";
+}

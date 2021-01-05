@@ -1,0 +1,3 @@
+
+    void setAlignment(int alignment);
+}

@@ -1,0 +1,3 @@
+
+    boolean isEnd(int pos);
+}

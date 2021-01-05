@@ -1,0 +1,4 @@
+
+
+    boolean isDesignTime();
+}

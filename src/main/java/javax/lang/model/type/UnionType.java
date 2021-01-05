@@ -1,0 +1,3 @@
+
+    List<? extends TypeMirror> getAlternatives();
+}

@@ -1,0 +1,3 @@
+
+    DOUBLE_VALUE
+}

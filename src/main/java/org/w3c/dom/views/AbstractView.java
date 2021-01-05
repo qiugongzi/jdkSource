@@ -1,0 +1,4 @@
+
+    public DocumentView getDocument();
+
+}

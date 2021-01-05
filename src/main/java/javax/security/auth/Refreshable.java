@@ -1,0 +1,3 @@
+
+    void refresh() throws RefreshFailedException;
+}

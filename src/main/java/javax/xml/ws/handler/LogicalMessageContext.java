@@ -1,0 +1,3 @@
+
+  public LogicalMessage getMessage();
+}

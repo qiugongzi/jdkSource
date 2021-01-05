@@ -1,0 +1,3 @@
+
+    void delItem(int index);
+}

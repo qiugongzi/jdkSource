@@ -1,0 +1,3 @@
+
+    void hyperlinkUpdate(HyperlinkEvent e);
+}

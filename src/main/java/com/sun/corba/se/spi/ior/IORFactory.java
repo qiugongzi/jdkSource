@@ -1,0 +1,3 @@
+
+    boolean isEquivalent( IORFactory other ) ;
+}

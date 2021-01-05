@@ -1,0 +1,3 @@
+
+    void setState(boolean state);
+}

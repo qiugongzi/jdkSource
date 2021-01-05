@@ -1,0 +1,4 @@
+
+    void caretPositionChanged(InputMethodEvent event);
+
+}

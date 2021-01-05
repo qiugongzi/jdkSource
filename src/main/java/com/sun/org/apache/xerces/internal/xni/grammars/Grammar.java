@@ -1,0 +1,3 @@
+
+    public XMLGrammarDescription getGrammarDescription ();
+}

@@ -1,0 +1,4 @@
+
+
+    void removeDropTarget(DropTarget dt);
+}

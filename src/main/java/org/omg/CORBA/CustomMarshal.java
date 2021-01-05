@@ -1,0 +1,3 @@
+
+    void unmarshal(DataInputStream is);
+}

@@ -1,0 +1,3 @@
+
+    void undoableEditHappened(UndoableEditEvent e);
+}

@@ -1,0 +1,4 @@
+
+  void connectionErrorOccurred(ConnectionEvent event);
+
+ }

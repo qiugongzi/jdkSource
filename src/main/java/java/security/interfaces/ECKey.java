@@ -1,0 +1,3 @@
+
+    ECParameterSpec getParams();
+}

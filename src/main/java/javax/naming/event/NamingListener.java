@@ -1,0 +1,3 @@
+
+    void namingExceptionThrown(NamingExceptionEvent evt);
+}

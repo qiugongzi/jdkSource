@@ -1,0 +1,3 @@
+
+    void registerFactory( IdentifiableFactory factory ) ;
+}

@@ -1,0 +1,3 @@
+
+    void dragMouseMoved(DragSourceDragEvent dsde);
+}

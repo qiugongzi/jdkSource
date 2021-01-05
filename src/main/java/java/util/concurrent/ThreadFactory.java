@@ -1,0 +1,3 @@
+
+    Thread newThread(Runnable r);
+}

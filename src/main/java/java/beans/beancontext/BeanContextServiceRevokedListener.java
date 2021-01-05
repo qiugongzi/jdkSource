@@ -1,0 +1,3 @@
+
+    void serviceRevoked(BeanContextServiceRevokedEvent bcsre);
+}

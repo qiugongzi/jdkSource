@@ -1,0 +1,3 @@
+
+    void setLabel(String label);
+}

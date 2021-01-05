@@ -1,0 +1,3 @@
+
+    Shape createStrokedShape (Shape p);
+}

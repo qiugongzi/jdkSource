@@ -1,0 +1,3 @@
+
+    void childrenRemoved(BeanContextMembershipEvent bcme);
+}

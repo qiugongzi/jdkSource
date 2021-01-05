@@ -1,0 +1,3 @@
+
+    void setPageIncrement(int l);
+}

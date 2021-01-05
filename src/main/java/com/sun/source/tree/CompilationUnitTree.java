@@ -1,0 +1,3 @@
+
+    LineMap getLineMap();
+}

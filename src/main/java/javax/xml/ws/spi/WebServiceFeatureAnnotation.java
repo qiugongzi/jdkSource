@@ -1,0 +1,3 @@
+
+    Class<? extends WebServiceFeature> bean();
+}

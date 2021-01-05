@@ -1,0 +1,3 @@
+
+    TypeCode _type();
+}

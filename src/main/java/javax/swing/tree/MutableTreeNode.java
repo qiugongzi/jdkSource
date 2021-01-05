@@ -1,0 +1,3 @@
+
+    void setParent(MutableTreeNode newParent);
+}

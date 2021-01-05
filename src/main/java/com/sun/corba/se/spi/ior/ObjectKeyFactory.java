@@ -1,0 +1,3 @@
+
+    ObjectKeyTemplate createTemplate( InputStream is ) ;
+}

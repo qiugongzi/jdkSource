@@ -1,0 +1,3 @@
+
+    void menuDragMouseReleased(MenuDragMouseEvent e);
+}

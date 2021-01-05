@@ -1,0 +1,4 @@
+
+    boolean isWindowUnderMouse(Window w);
+
+}

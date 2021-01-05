@@ -1,0 +1,3 @@
+
+    ECPoint getW();
+}

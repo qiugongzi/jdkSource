@@ -1,0 +1,3 @@
+
+  void setNodeTest(NodeTest nodeTest);
+}

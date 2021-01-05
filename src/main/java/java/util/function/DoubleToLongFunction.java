@@ -1,0 +1,3 @@
+
+    long applyAsLong(double value);
+}

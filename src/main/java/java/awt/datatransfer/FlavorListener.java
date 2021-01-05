@@ -1,0 +1,3 @@
+
+    void flavorsChanged(FlavorEvent e);
+}
