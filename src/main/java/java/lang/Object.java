@@ -5,7 +5,7 @@ package java.lang;
 /**
  * 所有类都继承了Object
  * 接口不是类，不继承Object
- * 接口是对类的一系列需求的描述
+ * 接口是对类的一系列需求的描述 《java核心技术卷1》
  *
  * 但是接口中隐式声明了Object的抽象方法，所以接口可以调用toString方法，
  * 具体实现由接口的实现类决定。
@@ -38,6 +38,14 @@ public class Object {
     public final native Class<?> getClass();
 
 
+    /**
+     * @see <a href="https://blog.csdn.net/JasonChen3318/article/details/100150009"></a>
+     * @see <a href="https://www.cnblogs.com/shangxiaofei/p/8143272.html"></a>
+     * 对象的hashcode 是由对象地址转换得到的一个值,并不是地址本身
+     * hashcode是用来在散列存储结构中确定对象的存储地址的
+     *
+     * @return
+     */
     public native int hashCode();
 
 
@@ -81,6 +89,9 @@ public class Object {
     }
 
 
+    /**
+     * @see <a href="https://www.runoob.com/java/java-object-wait.html"></a>
+     */
     public final native void notify();
 
 
