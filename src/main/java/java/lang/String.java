@@ -21,6 +21,11 @@ import java.util.regex.PatternSyntaxException;
  * final修饰类
  * 1：String类不能被继承
  * 2：成员方法默认都为final
+ * <p>
+ * note
+ * 其实可以通过反射的方式来修改String
+ * 通过反射可以获取到 char[] value，
+ * 既可以改变value的指向，又可以改变value指向内存中char的值了
  */
 public final class String
     implements java.io.Serializable, Comparable<String>, CharSequence {
@@ -289,8 +294,6 @@ public final class String
 
 
   public native String intern();
-
-
 
 
   public String(int[] codePoints, int offset, int count) {
@@ -1167,9 +1170,6 @@ public final class String
   public String toUpperCase() {
     return toUpperCase(Locale.getDefault());
   }
-
-
-
 
 
   public char[] toCharArray() {
