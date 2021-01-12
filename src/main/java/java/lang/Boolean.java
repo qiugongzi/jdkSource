@@ -2,7 +2,11 @@
 
 package java.lang;
 
-
+/**
+ * 实现了Comparable接口
+ * 说明 1:可以调用 .compareTo(Boolean b) 方法
+ * 2:可作为List对象，使用排序功能
+ */
 public final class Boolean implements java.io.Serializable,
                                       Comparable<Boolean>
 {
@@ -12,11 +16,18 @@ public final class Boolean implements java.io.Serializable,
 
     public static final Boolean FALSE = new Boolean(false);
 
-
+    /**
+     * 返回boolean.class对象作为常量
+     */
     @SuppressWarnings("unchecked")
     public static final Class<Boolean> TYPE = (Class<Boolean>) Class.getPrimitiveClass("boolean");
 
 
+    /**
+     * 成员变量应该尽可能定义为私有的；
+     * 尽可能定义为 final，多线程下是安全的,
+     * 同时JVM对final类型的变量有优化
+     */
     private final boolean value;
 
 
